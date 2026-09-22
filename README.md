@@ -2,7 +2,7 @@
 
 Paper crowns, GPU bricks, founder pagers and an oversized ESC key.
 
-This is the public art explorer and mock-USDG rehearsal for BEARBULLS on Robinhood testnet. No real-money mint is open. Paid pricing and launch terms are undecided.
+This is the public art explorer and mock-USDG rehearsal for BEARBULLS on Robinhood testnet. No real-money mint is open. The approved mint target is $10 per creature plus gas, with a first planned pilot of 100 and a lifetime ceiling of 10,000. The real payment route, dollar-pricing policy and launch date remain unconfirmed.
 
 - [Project alpha and updates](https://github.com/bearbull-click/bearbull-click)
 - [Dated testnet proof](https://github.com/bearbull-click/bearbull-click/blob/main/PROOF.md)
